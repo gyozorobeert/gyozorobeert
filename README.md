@@ -34,7 +34,7 @@ My experience spans front-end styling, interactive scripting, and robust backend
 
 | Project Name | Used Languages or Frameworks | 
 | :--- | :--- | 
-| **Portfolio Site** | HTML, CSS, JS | 
+| **Portfolio Site Rework** | HTML, CSS, JS | 
 | **Weather Forecast App** | C#, RestAPI | 
 
 ---
