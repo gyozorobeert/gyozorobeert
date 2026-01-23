@@ -34,9 +34,7 @@ My experience spans front-end styling, interactive scripting, and robust backend
 
 | Project Name | Used Languages or Frameworks | 
 | :--- | :--- | 
-| **Portfolio Site Rework** | HTML, CSS, JS | 
-| **Weather Forecast App** | C#, RestAPI | 
-
+| **Portfolio Site connected with personal business site** | NextJS, TailwindCSS, FlowBite Component library | 
 ---
 
 ### 📬 Let's Connect!
