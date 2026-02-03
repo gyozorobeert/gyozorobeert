@@ -12,9 +12,9 @@ My experience spans front-end styling, interactive scripting, and robust backend
 
 | Category | Languages & Frameworks | 
 | :--- | :--- | 
-| **Front-End** | **React**, **Next.js** (for Server-Side Rendering), **JavaScript (JS)**, **HTML**, **CSS** | 
+| **Front-End** | **React**, **Next.js**, **JavaScript (JS)**, **HTML**, **CSS** | 
 | **Styling & UI** | **Tailwind CSS** (Utility-first styling), **CSS** | 
-| **Backend & APIs** | **Python**, **Java**, **C#**, **Django** (Python Web Framework) | 
+| **Backend & APIs** | **Java**, **C#**| 
 | **Core Skills** | Object-Oriented Programming (OOP), RESTful API Design, Version Control (Git) | 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -23,18 +23,9 @@ My experience spans front-end styling, interactive scripting, and robust backend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
----
-
-### 💡Ongoing Projects:
-
-| Project Name | Used Languages or Frameworks | 
-| :--- | :--- | 
-| **Portfolio Site connected with personal business site** | NextJS, TailwindCSS, FlowBite Component library | 
 ---
 
 ### 📬 Let's Connect!
