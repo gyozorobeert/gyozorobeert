@@ -12,9 +12,9 @@ My experience spans front-end styling, interactive scripting, and robust backend
 
 | Category | Languages & Frameworks | 
 | :--- | :--- | 
-| **Front-End** | **React**, **Next.js**, **JavaScript (JS)**, **HTML**, **CSS** | 
-| **Styling & UI** | **Tailwind CSS** (Utility-first styling), **CSS** | 
-| **Backend** | **Java**, **C#**| 
+| **Front-End** | React, Next.js, JavaScript (JS), HTML, CSS | 
+| **Styling & UI** | Tailwind CSS (Utility-first styling), CSS | 
+| **Backend** | Java, C#| 
 | **Core Skills** | Object-Oriented Programming (OOP), RESTful API Design, Version Control (Git/Github) | 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
