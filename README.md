@@ -12,7 +12,7 @@ My experience spans front-end styling, interactive scripting, and robust backend
 
 | Category | Languages & Frameworks | 
 | :--- | :--- | 
-| **Front-End** | React, Next.js, JavaScript (JS), TypeScript (TS), HTML, CSS | 
+| **Front-End** | React, Next.js, Vite, JavaScript (JS), TypeScript (TS), HTML, CSS | 
 | **Styling & UI** | Tailwind CSS (Utility-first styling), CSS | 
 | **Backend** | Java, C#| 
 | **Core Skills** | Object-Oriented Programming (OOP), RESTful API Design, Version Control (Git/Github) | 
